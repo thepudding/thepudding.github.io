@@ -20,5 +20,14 @@
       <description>This is the about page. What about it?</description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sat, 16 Sep 2017 17:27:30 -0700</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>This is a test post. It&amp;rsquo;s the first post or whatever.</description>
+    </item>
+    
   </channel>
 </rss>
